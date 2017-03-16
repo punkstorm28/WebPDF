@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/listBack"
+    android:minHeight="20dp"
+    android:paddingBottom="6dp"
+    android:paddingTop="10dp"
+
+    android:elevation="15dp"
+    android:focusable="false"
+    android:clickable="false">
+    <CheckBox
+        android:id="@+id/list_fragment_checkbox_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_alignParentRight="true"
+        android:focusable="false"
+        android:visibility="gone"
+        android:paddingLeft="50dp"/>
+
+    <TextView
+        android:id="@+id/notificationTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/list_fragment_checkbox_id"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:text="Title"
+        android:maxLines="2" />
+
+    <TextView
+        android:id="@+id/notification_message"
+        android:textSize="17dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/notificationTitle"
+        android:layout_toLeftOf="@+id/list_fragment_checkbox_id"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textColor="#ffff"
+        android:text = "message"
+        android:maxLines="1" />
+
+</RelativeLayout>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/notificationSwitcher"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:weightSum="1"
+    android:orientation="vertical"
+    android:background="@color/listBack">
+
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="179dp"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:id="@+id/NextMessage"
+        android:background="@color/secondary_text_default_material_dark"
+        android:layout_gravity="right|bottom" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:text="Previous"
+        android:id="@+id/previousMessage"
+        android:background="@color/secondary_text_default_material_dark"
+        android:layout_gravity="left|bottom" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="237dp"
+        android:layout_marginLeft="5dp"
+        android:gravity="center"
+        android:layout_marginRight="5dp"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/notificationMessage"
+        android:textColor="#ffff"
+        android:maxLines = "20"
+        android:scrollbars = "vertical"
+        android:textSize="17sp"
+        android:layout_gravity="center_horizontal|bottom" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/notificationTitle"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_marginTop="65dp"
+        android:textColor="#ffff"
+        android:textSize="25sp"
+
+        android:layout_marginBottom="10dp"
+        android:layout_weight="0.08"
+        android:layout_gravity="center" />
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="299dp"
+        android:text="sampleFILL"
+        android:id="@+id/notificationImage"
+        android:layout_weight="0.33"
+        android:layout_marginBottom="10dp"
+
+        android:layout_gravity="center_horizontal|top" />
+
+
+
+</FrameLayout>
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/notifications_tabBack"
+        android:minHeight="20dp"
+        >
+
+        <TextView
+            android:id="@+id/tipTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/list_fragment_checkbox_id"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            android:textStyle="bold"
+            android:textColor="@color/notifications_textBack"
+            android:text="Title"/>
+
+        <TextView
+            android:id="@+id/notification_message"
+            android:textSize="17dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tipTitle"
+            android:layout_toLeftOf="@+id/list_fragment_checkbox_id"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="20dp"
+            android:textColor="@color/notifications_textBack"
+            android:text = "message"/>
+
+    </RelativeLayout>
+  </ViewFlipper>

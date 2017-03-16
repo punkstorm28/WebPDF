@@ -1,0 +1,230 @@
+[
+    {
+        "outputFile": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1331
+                },
+                "from": {
+                    "file": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 571,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1336,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1857
+                },
+                "from": {
+                    "file": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1100,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1862,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2397
+                },
+                "from": {
+                    "file": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1627,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2402,
+                    "endColumn": 78,
+                    "endOffset": 2476
+                },
+                "from": {
+                    "file": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2168,
+                        "endColumn": 79,
+                        "endOffset": 2243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2481,
+                    "endColumn": 92,
+                    "endOffset": 2569
+                },
+                "from": {
+                    "file": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2249,
+                        "endColumn": 93,
+                        "endOffset": 2338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2574,
+                    "endColumn": 90,
+                    "endOffset": 2660
+                },
+                "from": {
+                    "file": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2344,
+                        "endColumn": 91,
+                        "endOffset": 2431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2665,
+                    "endColumn": 104,
+                    "endOffset": 2765
+                },
+                "from": {
+                    "file": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2437,
+                        "endColumn": 105,
+                        "endOffset": 2538
+                    }
+                }
+            }
+        ]
+    }
+]

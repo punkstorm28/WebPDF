@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/home_outline.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/home_outline.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/vector_drawable_ic_clear_black.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vector_drawable_ic_clear_black.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/crop_landscape.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/crop_landscape.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/json.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/json.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/information_outline.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/information_outline.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/vector_drawable_ic_keyboard_arrow_left_black___px.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vector_drawable_ic_keyboard_arrow_left_black___px.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/information.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/information.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/star_outline.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/star_outline.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/panorama_horizontal.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/panorama_horizontal.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/vector_drawable_ic_sms_black___px__.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vector_drawable_ic_sms_black___px__.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_star.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_star.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/vector_drawable_ic_keyboard_arrow_right_black___px.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vector_drawable_ic_keyboard_arrow_right_black___px.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_search.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_search.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/message_text_outline.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/message_text_outline.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/vector_drawable_ic_home_black___px.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vector_drawable_ic_home_black___px.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/arrow_right_bold_hexagon_outline.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/arrow_right_bold_hexagon_outline.xml"
+    }
+]

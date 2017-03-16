@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0_164ed07145070ec29d1bb063c101ca3eff2b1169.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-sqs/2.2.11/c110f281a77612eabe92248dfc99621d58e0a145/aws-android-sdk-sqs-2.2.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c110f281a77612eabe92248dfc99621d58e0a145">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-sqs-2.2.11_24aa08b2bea3fcc32a00b76ea7c3968305043728/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_164ed07145070ec29d1bb063c101ca3eff2b1169/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_833df57d81404d1ab6f62fd9dc9516dbed0d3908/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.2.11/a0a93d1bd95a14a80a86bf197eb8db507031e832/aws-android-sdk-cognito-2.2.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0a93d1bd95a14a80a86bf197eb8db507031e832">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognito-2.2.11_6272a544a89c634eab594d0b258ab8f0e0e8e670/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_4ed5166cb88d2eb455774ed35a67bb60fb8c0598/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.2.11/a0a93d1bd95a14a80a86bf197eb8db507031e832/aws-android-sdk-cognito-2.2.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0a93d1bd95a14a80a86bf197eb8db507031e832">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/aws-android-sdk-cognito-2.2.11_6272a544a89c634eab594d0b258ab8f0e0e8e670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.1.0_4ed5166cb88d2eb455774ed35a67bb60fb8c0598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0_f8da8002fc466b4db2127c73e6e7f08b5db0e393.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-8.1.0_833df57d81404d1ab6f62fd9dc9516dbed0d3908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-sns/2.2.11/f12ba81f9a5c53bdc2d3146dd5933f582a0bba23/aws-android-sdk-sns-2.2.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f12ba81f9a5c53bdc2d3146dd5933f582a0bba23">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/aws-android-sdk-sns-2.2.11_0180a0cb49a295734e202aecbba8b0aa183b8400.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="decd3670717d3745e99c93df05e5a298e8a50c9c">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d8057671dfd0e85466f62e46c34db9e987048e7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_8f795e9ec2bef92d3c2fe9ad6560ded6117a7abd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-21.0.3_8f795e9ec2bef92d3c2fe9ad6560ded6117a7abd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-sns/2.2.11/f12ba81f9a5c53bdc2d3146dd5933f582a0bba23/aws-android-sdk-sns-2.2.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f12ba81f9a5c53bdc2d3146dd5933f582a0bba23">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-sns-2.2.11_0180a0cb49a295734e202aecbba8b0aa183b8400/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.11/26f86360a57bc6f750e8ee1628c45e1eda4abe68/aws-android-sdk-core-2.2.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26f86360a57bc6f750e8ee1628c45e1eda4abe68">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.2.11_d6b5d95e611d83e7eab2cdee9b5480002924ff1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="64cb98ce79e4e9f3c02f81c56895982050a4bd13">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_55574b0c7243df07f02a218716f046ee4b84b2fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.11/26f86360a57bc6f750e8ee1628c45e1eda4abe68/aws-android-sdk-core-2.2.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26f86360a57bc6f750e8ee1628c45e1eda4abe68">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/aws-android-sdk-core-2.2.11_d6b5d95e611d83e7eab2cdee9b5480002924ff1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-21.0.3_4310f939c1b651144ade4e3cf778a0f49cd218d5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.1.0_6261b76b455bf18a4c2e76d35e8bf0118659e51f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-8.1.0_6261b76b455bf18a4c2e76d35e8bf0118659e51f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_f8da8002fc466b4db2127c73e6e7f08b5db0e393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-21.0.3_4310f939c1b651144ade4e3cf778a0f49cd218d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-8.1.0_0c8b7c81ded034972fd93c7f9d06a7bbbf9023bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.1.0_0c8b7c81ded034972fd93c7f9d06a7bbbf9023bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-sqs/2.2.11/c110f281a77612eabe92248dfc99621d58e0a145/aws-android-sdk-sqs-2.2.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c110f281a77612eabe92248dfc99621d58e0a145">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/aws-android-sdk-sqs-2.2.11_24aa08b2bea3fcc32a00b76ea7c3968305043728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-21.0.3_7d97f356f05acf06d7120a0c43053cc781c3be44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-21.0.3_7d97f356f05acf06d7120a0c43053cc781c3be44/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-22.2.0_fbec75542b99e405782325f73e80de17211b6b5c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_fbec75542b99e405782325f73e80de17211b6b5c/classes.dex" />
+    </item>
+
+</items>

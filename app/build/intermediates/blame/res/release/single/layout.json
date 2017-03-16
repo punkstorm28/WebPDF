@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/textentry.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/textentry.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/buttons.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/buttons.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/activity_rating.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/activity_rating.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/print_dialog.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/print_dialog.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/activity_fragment.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/activity_fragment.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/view_buttons.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/view_buttons.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/picker_entry_search.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/picker_entry_search.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_include.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/filechooser.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/filechooser.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/outline_list.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/outline_list.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/outline_entry.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/outline_entry.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/notificationfloat.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/notificationfloat.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/list_notifications.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/list_notifications.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/picker_entry.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/picker_entry.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/picker_entry_history.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/layout/picker_entry_history.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_layout.xml"
+    }
+]

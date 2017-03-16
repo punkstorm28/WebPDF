@@ -1,0 +1,7 @@
+#Wed Mar 15 21:16:42 IST 2017
+base.0=/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_55574b0c7243df07f02a218716f046ee4b84b2fd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d8057671dfd0e85466f62e46c34db9e987048e7d/classes.dex
+base.1=/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d8057671dfd0e85466f62e46c34db9e987048e7d
+file.0=/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_55574b0c7243df07f02a218716f046ee4b84b2fd/classes.dex

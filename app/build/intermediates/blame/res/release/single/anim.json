@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/page.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/anim/page.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/zoom.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/anim/zoom.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/zoom_almost_disappear.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/anim/zoom_almost_disappear.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/slide_in.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/anim/slide_in.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/slide_out.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/page_almost_disappear.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/anim/page_almost_disappear.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/page_disappear.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/anim/page_disappear.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/page_show_always.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/anim/page_show_always.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/build/intermediates/res/merged/release/anim/zoom_disappear.xml",
+        "source": "/Users/vyomkeshjha/AndroidStudioProjects/YoungPioneer/app/src/main/res/anim/zoom_disappear.xml"
+    }
+]
